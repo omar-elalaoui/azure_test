@@ -1,3 +1,4 @@
 flask
-mongoengine
+mongoengine==0.24.2
+pymongo==3.12.3
 gunicorn
